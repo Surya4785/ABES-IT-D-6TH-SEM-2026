@@ -8,4 +8,4 @@ export const readFile=async(path)=>{
         console.log("unable to read");
     }
 }
-console.log(readFile("./studdents.json"));
+console.log(readFile("./students.json"));
